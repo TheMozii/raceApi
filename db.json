@@ -1,0 +1,356 @@
+{
+  "users": [
+    {
+      "wins": 5,
+      "losses": 27,
+      "id": 2,
+      "username": "user2",
+      "password": "user2"
+    },
+    {
+      "wins": 5,
+      "losses": 14,
+      "id": 3,
+      "username": "user3",
+      "password": "user3"
+    },
+    {
+      "wins": 0,
+      "losses": 1,
+      "id": 4,
+      "username": "use1",
+      "password": "user1"
+    }
+  ],
+  "auth": {
+    "currentUserId": 2
+  },
+  "garage": [
+    {
+      "name": "Tesla 906",
+      "color": "#ffaa00",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "name": "Lambo 813",
+      "color": "#aa00ff",
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "name": "Tesla 993",
+      "color": "#00ff00",
+      "userId": 2,
+      "id": 8
+    },
+    {
+      "name": "Ford 963",
+      "color": "#ffff00",
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "BMW 295",
+      "color": "#00ff00",
+      "userId": 2,
+      "id": 10
+    },
+    {
+      "name": "Ford 658",
+      "color": "#0000ff",
+      "userId": 2,
+      "id": 16
+    },
+    {
+      "name": "Ferrari 627",
+      "color": "#00ff00",
+      "userId": 2,
+      "id": 17
+    },
+    {
+      "name": "Ford 868",
+      "color": "#ff00ff",
+      "userId": 2,
+      "id": 18
+    },
+    {
+      "name": "Chevy 479",
+      "color": "#00ff00",
+      "userId": 2,
+      "id": 19
+    },
+    {
+      "name": "Kia 476",
+      "color": "#ff0000",
+      "userId": 2,
+      "id": 20
+    },
+    {
+      "name": "Nissan 380",
+      "color": "#ffff00",
+      "userId": 3,
+      "id": 21
+    },
+    {
+      "name": "BMW 805",
+      "color": "#ff00ff",
+      "userId": 3,
+      "id": 22
+    },
+    {
+      "name": "Chevy 113",
+      "color": "#ffaa00",
+      "userId": 3,
+      "id": 23
+    },
+    {
+      "name": "Nissan 551",
+      "color": "#aa00ff",
+      "userId": 3,
+      "id": 24
+    },
+    {
+      "name": "Chevy 647",
+      "color": "#00ff00",
+      "userId": 3,
+      "id": 25
+    },
+    {
+      "name": "Nissan 596",
+      "color": "#ffff00",
+      "userId": 3,
+      "id": 26
+    },
+    {
+      "name": "Toyota 994",
+      "color": "#ff0000",
+      "userId": 3,
+      "id": 27
+    },
+    {
+      "name": "Toyota 127",
+      "color": "#ffaa00",
+      "userId": 3,
+      "id": 28
+    },
+    {
+      "name": "Lambo 973",
+      "color": "#0000ff",
+      "userId": 3,
+      "id": 29
+    },
+    {
+      "name": "Porsche 553",
+      "color": "#aa00ff",
+      "userId": 3,
+      "id": 30
+    },
+    {
+      "name": "Ford 461",
+      "color": "#0000ff",
+      "userId": 3,
+      "id": 31
+    },
+    {
+      "name": "Tesla 800",
+      "color": "#ff0066",
+      "userId": 3,
+      "id": 32
+    },
+    {
+      "name": "Lambo 805",
+      "color": "#ff0066",
+      "userId": 3,
+      "id": 33
+    },
+    {
+      "name": "Ferrari 812",
+      "color": "#ff00ff",
+      "userId": 3,
+      "id": 34
+    },
+    {
+      "name": "Lambo 672",
+      "color": "#ff0000",
+      "userId": 3,
+      "id": 35
+    },
+    {
+      "name": "Porsche 863",
+      "color": "#00ffaa",
+      "userId": 3,
+      "id": 36
+    },
+    {
+      "name": "Ford 776",
+      "color": "#aa00ff",
+      "userId": 3,
+      "id": 37
+    },
+    {
+      "name": "Nissan 613",
+      "color": "#ffff00",
+      "userId": 3,
+      "id": 38
+    },
+    {
+      "name": "Lambo 207",
+      "color": "#00ff00",
+      "userId": 3,
+      "id": 39
+    },
+    {
+      "name": "Porsche 521",
+      "color": "#ff00ff",
+      "userId": 3,
+      "id": 40
+    },
+    {
+      "name": "Nissan 283",
+      "color": "#ff0000",
+      "userId": 4,
+      "id": 41
+    },
+    {
+      "name": "Tesla 113",
+      "color": "#ff0000",
+      "userId": 4,
+      "id": 42
+    },
+    {
+      "name": "BMW 164",
+      "color": "#00ffaa",
+      "userId": 4,
+      "id": 43
+    },
+    {
+      "name": "Nissan 216",
+      "color": "#ff00ff",
+      "userId": 4,
+      "id": 44
+    },
+    {
+      "name": "Lambo 155",
+      "color": "#aa00ff",
+      "userId": 2,
+      "id": 45
+    },
+    {
+      "name": "Ferrari 432",
+      "color": "#00ffaa",
+      "userId": 2,
+      "id": 46
+    },
+    {
+      "name": "Chevy 254",
+      "color": "#ff0066",
+      "userId": 2,
+      "id": 47
+    },
+    {
+      "name": "Honda 128",
+      "color": "#ffff00",
+      "userId": 2,
+      "id": 48
+    }
+  ],
+  "winners": [
+    {
+      "id": 7,
+      "wins": 22,
+      "time": 2.5247999999970197,
+      "userId": 2
+    },
+    {
+      "id": 9,
+      "wins": 24,
+      "time": 2.5234000000059607,
+      "userId": 2
+    },
+    {
+      "id": 8,
+      "wins": 12,
+      "time": 2.6420999999940395,
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "wins": 12,
+      "time": 2.6121000000089407,
+      "userId": 2
+    },
+    {
+      "id": 10,
+      "wins": 14,
+      "time": 2.5648999999910593,
+      "userId": 2
+    },
+    {
+      "id": 19,
+      "wins": 5,
+      "time": 3.0415,
+      "userId": 2
+    },
+    {
+      "id": 21,
+      "wins": 6,
+      "time": 3.4570999999940395,
+      "userId": 3
+    },
+    {
+      "id": 25,
+      "wins": 1,
+      "time": 3.339,
+      "userId": 3
+    },
+    {
+      "id": 24,
+      "wins": 5,
+      "time": 2.643300000011921,
+      "userId": 3
+    },
+    {
+      "id": 22,
+      "wins": 3,
+      "time": 2.81920000000298,
+      "userId": 3
+    },
+    {
+      "id": 23,
+      "wins": 5,
+      "time": 2.68220000000298,
+      "userId": 3
+    },
+    {
+      "id": 20,
+      "wins": 2,
+      "time": 5.1175,
+      "userId": 2
+    },
+    {
+      "id": 44,
+      "wins": 1,
+      "time": 2.642199999988079,
+      "userId": 4
+    },
+    {
+      "id": 18,
+      "wins": 1,
+      "time": 3.77,
+      "userId": 2
+    },
+    {
+      "id": 16,
+      "wins": 1,
+      "time": 4.1425,
+      "userId": 2
+    },
+    {
+      "id": 17,
+      "wins": 1,
+      "time": 3.237800000011921,
+      "userId": 2
+    }
+  ]
+}
