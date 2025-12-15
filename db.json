@@ -23,7 +23,7 @@
     }
   ],
   "auth": {
-    "currentUserId": 2
+    "currentUserId": null
   },
   "garage": [
     {
