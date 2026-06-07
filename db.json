@@ -22,11 +22,11 @@
       "password": "user1"
     },
     {
+      "wins": 0,
+      "losses": 0,
       "id": 5,
       "username": "user5",
-      "password": "User5",
-      "wins": 0,
-      "losses": 0
+      "password": "User5"
     }
   ],
   "auth": {
