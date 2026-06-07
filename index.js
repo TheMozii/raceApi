@@ -35,6 +35,10 @@ server.use((req, res, next) => {
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
+server.get("/health", (_req, res) => {
+  res.status(200).json({ status: "ok" });
+});
+
 function ensureSchema() {
   const state = router.db.getState() || {};
   if (!state.users) state.users = [];

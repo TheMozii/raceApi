@@ -20,10 +20,17 @@
       "id": 4,
       "username": "use1",
       "password": "user1"
+    },
+    {
+      "id": 5,
+      "username": "user5",
+      "password": "User5",
+      "wins": 0,
+      "losses": 0
     }
   ],
   "auth": {
-    "currentUserId": null
+    "currentUserId": 5
   },
   "garage": [
     {
@@ -253,6 +260,30 @@
       "color": "#ffff00",
       "userId": 2,
       "id": 48
+    },
+    {
+      "name": "Chevy 608",
+      "color": "#00ffaa",
+      "userId": 5,
+      "id": 49
+    },
+    {
+      "name": "Ferrari 590",
+      "color": "#aa00ff",
+      "userId": 5,
+      "id": 50
+    },
+    {
+      "name": "Lambo 646",
+      "color": "#ffff00",
+      "userId": 5,
+      "id": 51
+    },
+    {
+      "name": "Nissan 725",
+      "color": "#00ffff",
+      "userId": 5,
+      "id": 52
     }
   ],
   "winners": [
